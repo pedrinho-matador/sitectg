@@ -1,12 +1,18 @@
 body{
-background-color: #fffdc0
+background-color:	#7FFFD4
 }
 h1{
-  font-size: 45px;color: #314d4a; text-align: center;
+  font-size: 70px;color: #000000
 }
-img{
-  width: 1000px;
+h2{
+  font-size: 45px
 }
 p{
-  font-size: 20px;color: #314d4a; text-align: center;
+  font-size: 20px;color: #000000
+}
+li{
+  font-size: 20px color: #000000
+}
+a{
+  color:#000000
 }
