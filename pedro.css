@@ -16,3 +16,12 @@ li{
 a{
   color:#000000
 }
+h2{
+  border: 7px solid green
+}
+h1{
+  border: 7px solid green
+}
+ul{
+  font-size: 20px
+}
